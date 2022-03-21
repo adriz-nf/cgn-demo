@@ -1,5 +1,4 @@
-# Readme File for Repo!
-Let's see what markdown can do:
+# cgn-analytics-22-1 course plan
 
-**This will be bold**  
-This will not be bold
+day 1 - Introduction  
+day 2 - ?
